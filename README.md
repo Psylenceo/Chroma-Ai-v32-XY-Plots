@@ -8,7 +8,7 @@ All tests were performed using ComfyUI on a local computer using a 4090 and 64GB
 
 Plots created using the Easyuse node pack.
 
-Positive prompt used:
+### Positive prompt used:
 > Photorealistic, 8k, ultra-detailed, full frontal body shot, beautiful white woman with amber hair standing in well
 > lit studio while leaning backwards on the car between the drives door and the rear driver side passenger door of a
 > vibrant deep purple 1960's style convertable muscle car with red fuzzy dice hanging from the rear view mirror
@@ -18,15 +18,16 @@ Positive prompt used:
 > with orange tabby face wearing a green tank top and black leather jacket and rainbow colored sunglasses, the cat-man
 > has one hand on the steering wheel of the car while a leaning on the door of the car looking towards the camera
 > while tilting the sunglasses down
+
+### Negative prompt used:
+> low quality, bad anatomy, extra digits, missing digits, extra limbs, extra legsm missing limbs, anime, cartoon, drawing, cgi, 3d, digital art, painting, perfect skin, blurry, distorted, airbrushed, rounded, spherical, balloon, idealized features
 ---
 
 ## Table of Contents
-- [Getting Started](./Getting_Started/)
-- [Installation](./Installation/)
-- [Usage](./Usage/)
-- [Contributing](./Contributing/)
-- [License](./License/)
-
+- [Euler_Results](./Euler_Results/) -40% complete
+- [Euler_CFG_PP_Results]
+- [Euler_ancestral_Results]
+- [Euler_ancestral_CFG_PP_Results]
 ---
 
 ## Overview
