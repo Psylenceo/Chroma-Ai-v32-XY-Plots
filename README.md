@@ -8,7 +8,7 @@ All tests were performed using ComfyUI on a local computer using a 4090 and 64GB
 
 Plots created using the Easyuse node pack.
 
-> **Positive prompt used:**
+**Positive prompt used:**
 > Photorealistic, 8k, ultra-detailed, full frontal body shot, beautiful white woman with amber hair standing in well
 > lit studio while leaning backwards on the car between the drives door and the rear driver side passenger door of a
 > vibrant deep purple 1960's style convertable muscle car with red fuzzy dice hanging from the rear view mirror
