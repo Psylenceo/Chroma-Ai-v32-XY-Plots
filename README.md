@@ -6,7 +6,7 @@ All tests were performed using ComfyUI on a local computer using a 4090 and 64GB
 Consistant settings across all generations:
 Seed 1000
 Steps 20
-images generated @ 1024x1014
+images generated @ 1024x1024
 
 PLots created using the Easyuse node pack.
 
