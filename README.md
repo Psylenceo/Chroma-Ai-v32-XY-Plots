@@ -30,3 +30,13 @@ min Length 1
   <img src="https://github.com/Psylenceo/Chroma-Ai-v32-XY-Plots/blob/main/0.1/T5_0.1__00003_.png" width="400">
   <img src="https://github.com/Psylenceo/Chroma-Ai-v32-XY-Plots/blob/main/0.1/T5_0.1__00004_.png" width="400">
 </p>
+
+T5 Tokenizer options settings:
+min Padding 0
+min Length 2
+<p align="center">
+  <img src="https://github.com/Psylenceo/Chroma-Ai-v32-XY-Plots/blob/main/0.2/T5_0.2__00001_.png" width="400">
+  <img src="https://github.com/Psylenceo/Chroma-Ai-v32-XY-Plots/blob/main/0.2/T5_0.2__00002_.png" width="400">
+  <img src="https://github.com/Psylenceo/Chroma-Ai-v32-XY-Plots/blob/main/0.2/T5_0.2__00003_.png" width="400">
+  <img src="https://github.com/Psylenceo/Chroma-Ai-v32-XY-Plots/blob/main/0.2/T5_0.2__00004_.png" width="400">
+</p>
