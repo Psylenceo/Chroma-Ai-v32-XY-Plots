@@ -1,1 +1,6 @@
+# Ignore everything inside output/
+./Deleted_reddit_post/chroma-unlocked-v32-on-comfyui-all-sampler-scheduler-v0-0258ftdign3f1.webp
+./Deleted_reddit_post/chroma-unlocked-v32-on-comfyui-all-sampler-scheduler-v0-ql0649dign3f1.webp
+
+# Allow the specific directory to be tracked
 !*
