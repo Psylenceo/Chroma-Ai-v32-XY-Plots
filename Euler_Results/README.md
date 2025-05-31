@@ -14,13 +14,12 @@
 ---
 
 ## Results for T5 Tokenizer Options node
-### Min_padding = 0
-### Min_length  = 0
-<!---<p align="center">
-  <img src="https://github.com/Psylenceo/Chroma-Ai-v32-XY-Plots/blob/main/0.0/T5_0.0__00001_.png" width="400">
-  <img src="https://github.com/Psylenceo/Chroma-Ai-v32-XY-Plots/blob/main/0.0/T5_0.0__00002_.png" width="400">
-  <img src="https://github.com/Psylenceo/Chroma-Ai-v32-XY-Plots/blob/main/0.0/T5_0.0__00003_.png" width="400">
-  <img src="https://github.com/Psylenceo/Chroma-Ai-v32-XY-Plots/blob/main/0.0/T5_0.0__00004_.png" width="400">
+### Min_padding = 0 / Min_length  = 0
+<p align="center">
+  <img src="https://github.com/Psylenceo/Chroma-Ai-v32-XY-Plots/blob/main/Euler_Results/0.0/T5_0.0__00001_.png" width="400">
+  <img src="https://github.com/Psylenceo/Chroma-Ai-v32-XY-Plots/blob/main/0.0/Euler_Results/T5_0.0__00002_.png" width="400">
+  <img src="https://github.com/Psylenceo/Chroma-Ai-v32-XY-Plots/blob/main/0.0/Euler_Results/T5_0.0__00003_.png" width="400">
+  <img src="https://github.com/Psylenceo/Chroma-Ai-v32-XY-Plots/blob/main/0.0/Euler_Results/T5_0.0__00004_.png" width="400">
 </p>
 
 ---
