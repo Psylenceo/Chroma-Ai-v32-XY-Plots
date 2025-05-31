@@ -27,9 +27,13 @@ Plots created using the [Easyuse](https://github.com/yolain/ComfyUI-Easy-Use) no
 - [Euler_Results](./Euler_Results/) -40% complete
 - [Euler_CFG_PP_Results](./Euler_CFG_PP_Results/) -20% complete
 - [Euler_ancestral_Results](./Euler_ancestral_Results/) -20% complete
-- [Euler_ancestral_CFG_PP_Results]
+- [Euler_ancestral_CFG_PP_Results](./Euler_ancestral_CFG_PP_Results/) -20% complete
+- [heun_Results](./heun_Results/) -20% complete
+- [heunpp2_Results](./heunpp2_Results/) -20% complete
+- [dpm_2_Results](./heunpp2_Results) -20% complete
 
 - [XY Plots from Deleted Reddit post](./Deleted_reddit_post/) - had done a simple prompt at 10/20 steps, but ran through all Samplers & Schedulers, had posted on reddit but they flagged it.
+
 ---
 
 <!--- ## Overview
