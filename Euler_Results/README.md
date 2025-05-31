@@ -50,6 +50,24 @@
 </p>
 
 ---
+### Min_padding = 0 / Min_length  = 4
+<p align="center">
+  <img src="https://github.com/Psylenceo/Chroma-Ai-v32-XY-Plots/blob/main/Euler_Results/0.4/T5_0.4__00001_.png" width="200">
+  <img src="https://github.com/Psylenceo/Chroma-Ai-v32-XY-Plots/blob/main/Euler_Results/0.4/T5_0.4__00002_.png" width="200">
+  <img src="https://github.com/Psylenceo/Chroma-Ai-v32-XY-Plots/blob/main/Euler_Results/0.4/T5_0.4__00003_.png" width="200">
+  <img src="https://github.com/Psylenceo/Chroma-Ai-v32-XY-Plots/blob/main/Euler_Results/0.4/T5_0.4__00004_.png" width="200">
+</p>
+
+---
+### Min_padding = 0 / Min_length  = 5
+<p align="center">
+  <img src="https://github.com/Psylenceo/Chroma-Ai-v32-XY-Plots/blob/main/Euler_Results/0.5/T5_0.5__00001_.png" width="200">
+  <img src="https://github.com/Psylenceo/Chroma-Ai-v32-XY-Plots/blob/main/Euler_Results/0.5/T5_0.5__00002_.png" width="200">
+  <img src="https://github.com/Psylenceo/Chroma-Ai-v32-XY-Plots/blob/main/Euler_Results/0.5/T5_0.5__00003_.png" width="200">
+  <img src="https://github.com/Psylenceo/Chroma-Ai-v32-XY-Plots/blob/main/Euler_Results/0.5/T5_0.5__00004_.png" width="200">
+</p>
+
+---
 ## Preview
 ![Project Screenshot](./assets/project-image.png)
 

@@ -2,11 +2,11 @@
  # **Chroma-Ai-v32-XY-Plots**  
 
 ## Introduction
-Was testing out Chroma Ai v32 and wanted to share my results on reddit, but no reddit would always delete my posts, so I'm gonna see if I can post results here.
+Was testing out [Chroma](https://huggingface.co/lodestones/Chroma) Ai v32 and wanted to share my results on reddit, but no reddit would always delete my posts, so I'm gonna see if I can post results here.
 
-All tests were performed using ComfyUI on a local computer using a 4090 and 64GB running in a WSL container limited to 32GB. Consistent settings across all generations: Seed 1000 Steps 20 images generated @ 1024x1024
+All tests were performed using [ComfyUI](https://github.com/Comfy-Org) on a local computer using a 4090 and 64GB running in a WSL container limited to 32GB. Consistent settings across all generations: Seed 1000 Steps 20 images generated @ 1024x1024
 
-Plots created using the Easyuse node pack.
+Plots created using the [Easyuse](https://github.com/yolain/ComfyUI-Easy-Use) node pack.
 
 ### Positive prompt used:
 > Photorealistic, 8k, ultra-detailed, full frontal body shot, beautiful white woman with amber hair standing in well
@@ -25,18 +25,18 @@ Plots created using the Easyuse node pack.
 
 ## Table of Contents
 - [Euler_Results](./Euler_Results/) -40% complete
-- [Euler_CFG_PP_Results]
+- [Euler_CFG_PP_Results](./Euler_CFG_PP_Results/) -Started generating
 - [Euler_ancestral_Results]
 - [Euler_ancestral_CFG_PP_Results]
 ---
 
-## Overview
+<!--- ## Overview
 A short paragraph summarizing additional details about the project.
 
 ---
 
 ## Preview
-![Project Screenshot](./assets/project-image.png)
+![Project Screenshot](./assets/project-image.png) --->
 
 ---
 
