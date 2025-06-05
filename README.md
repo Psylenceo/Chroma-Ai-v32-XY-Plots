@@ -7,6 +7,7 @@ Was testing out [Chroma](https://huggingface.co/lodestones/Chroma) Ai v32 and wa
 All tests were performed using [ComfyUI](https://github.com/Comfy-Org) on a local computer using a 4090 and 64GB running in a WSL container limited to 32GB. Consistent settings across all generations: Seed 1000 Steps 20 images generated @ 1024x1024
 
 Plots created using the [Easyuse](https://github.com/yolain/ComfyUI-Easy-Use) node pack.
+Big shoutout to [rgthree](https://github.com/rgthree/rgthree-comfy) for their awsome nodes, especially the new power puter node that helped automate directory and file naming logic within my workflow!
 
 ### Positive prompt used:
 > Photorealistic, 8k, ultra-detailed, full frontal body shot, beautiful white woman with amber hair standing in well
@@ -41,17 +42,22 @@ Plots created using the [Easyuse](https://github.com/yolain/ComfyUI-Easy-Use) no
 - [dpmpp_sde_gpu_Results](./dpmpp_sde_gpu_Results) -20% complete
 - [dpmpp_2m_Results](./dpmpp_2m_Results) -20% complete
 - [dpmpp_2m_cfg_pp_Results](./dpmpp_2m_cfg_pp_Results) -20% complete
+<!-- next sampler -->
 
 - [XY Plots from Deleted Reddit post](./Deleted_reddit_post/) - had done a simple prompt at 10/20 steps, but ran through all Samplers & Schedulers, had posted on reddit but they flagged it.
 
+- [WorkFlows](./workflows/)
 ---
 
-<!--- ## Overview
-A short paragraph summarizing additional details about the project.
+## Workflows used
+<p align="center">
+  <img src="https://github.com/Psylenceo/Chroma-Ai-v32-XY-Plots/blob/main/workflows/XY Plot.png" width="400">
+  <img src="https://github.com/Psylenceo/Chroma-Ai-v32-XY-Plots/blob/main/workflows/resizer.png" width="400">
+</p>
 
 ---
 
-## Preview
+<!--- ## Preview
 ![Project Screenshot](./assets/project-image.png) --->
 
 ---
