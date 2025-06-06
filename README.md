@@ -46,7 +46,7 @@ Big shoutout to [rgthree](https://github.com/rgthree/rgthree-comfy) for their aw
 - [dpmpp_2m_sde_gpu_Results](./dpmpp_2m_sde_gpu_Results)                    -20% complete
 - [dpmpp_3m_sde_Results](./dpmpp_3m_sde_Results/)                           -20% complete
 - [dpmpp_3m_sde_gpu_Results](./dpmpp_3m_sde_gpu_Results/)                   -20% complete
-- [ddpm_Results](./ddpm_Results/)                                          -20% complete
+- [ddpm_Results](./ddpm_Results/)                                           -20% complete
 - [lcm_Results](./lcm_Results/)                                             -20% cpmplete
 <!-- next sampler -->
 
