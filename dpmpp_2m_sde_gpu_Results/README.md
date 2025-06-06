@@ -1,5 +1,5 @@
 <!--- use these arrows for adding comments or commenting out stuff --->
- # **Results for Euler_ancestral KSampler**  
+ # **Results for dpmpp_2m_sde_gpu KSampler**  
 
 <!---## Introduction --->
 ---
@@ -12,10 +12,10 @@
 ## Results for T5 Tokenizer Options node
 ### Min_padding = 0 / Min_length  = 0
 <p align="center">
-  <img src="https://github.com/Psylenceo/Chroma-Ai-v32-XY-Plots/blob/main/Euler_ancestral_Results/0.0/T5_0.0__00001_.png" width="200">
-  <img src="https://github.com/Psylenceo/Chroma-Ai-v32-XY-Plots/blob/main/Euler_ancestral_Results/0.0/T5_0.0__00002_.png" width="200">
-  <img src="https://github.com/Psylenceo/Chroma-Ai-v32-XY-Plots/blob/main/Euler_ancestral_Results/0.0/T5_0.0__00003_.png" width="200">
-  <img src="https://github.com/Psylenceo/Chroma-Ai-v32-XY-Plots/blob/main/Euler_ancestral_Results/0.0/T5_0.0__00004_.png" width="200">
+  <img src="https://github.com/Psylenceo/Chroma-Ai-v32-XY-Plots/blob/main/dpmpp_2m_sde_gpu_Results/0.0/T5_0.0__00001_.png" width="200">
+  <img src="https://github.com/Psylenceo/Chroma-Ai-v32-XY-Plots/blob/main/dpmpp_2m_sde_gpu_Results/0.0/T5_0.0__00002_.png" width="200">
+  <img src="https://github.com/Psylenceo/Chroma-Ai-v32-XY-Plots/blob/main/dpmpp_2m_sde_gpu_Results/0.0/T5_0.0__00003_.png" width="200">
+  <img src="https://github.com/Psylenceo/Chroma-Ai-v32-XY-Plots/blob/main/dpmpp_2m_sde_gpu_Results/0.0/T5_0.0__00004_.png" width="200">
 </p>
 
 ---

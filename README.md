@@ -25,23 +25,29 @@ Big shoutout to [rgthree](https://github.com/rgthree/rgthree-comfy) for their aw
 ---
 
 ## Table of Contents
-- [Euler_Results](./Euler_Results/) -40% complete
-- [Euler_CFG_PP_Results](./Euler_CFG_PP_Results/) -20% complete
-- [Euler_ancestral_Results](./Euler_ancestral_Results/) -20% complete
-- [Euler_ancestral_CFG_PP_Results](./Euler_ancestral_CFG_PP_Results/) -20% complete
-- [heun_Results](./heun_Results/) -20% complete
-- [heunpp2_Results](./heunpp2_Results/) -20% complete
-- [dpm_2_Results](./dpm_2_Results) -20% complete
-- [dpm_2_ancestral_Results](./dpm_2_ancestral_Results) -20% complete
-- [lms_Results](./lms_Results) -20% complete
-- [dpm_fast_Results](./dpm_fast_Results) -20% complete
-- [dpm_adaptive_Results](./dpm_adaptive_Results) -20% complete
-- [dpmpp_2s_ancestral_Results](./dpmpp_2s_ancestral_Results) -20% complete
-- [dpmpp_2s_ancestral_cfg_pp_Results](./dpmpp_2s_ancestral_cfg_pp_Results) -20% complete
-- [dpmpp_sde_Results](./dpmpp_sde_Results) -20% complete
-- [dpmpp_sde_gpu_Results](./dpmpp_sde_gpu_Results) -20% complete
-- [dpmpp_2m_Results](./dpmpp_2m_Results) -20% complete
-- [dpmpp_2m_cfg_pp_Results](./dpmpp_2m_cfg_pp_Results) -20% complete
+- [Euler_Results](./Euler_Results/)                                         -40% complete
+- [Euler_CFG_PP_Results](./Euler_CFG_PP_Results/)                           -20% complete
+- [Euler_ancestral_Results](./Euler_ancestral_Results/)                     -20% complete
+- [Euler_ancestral_CFG_PP_Results](./Euler_ancestral_CFG_PP_Results/)       -20% complete
+- [heun_Results](./heun_Results/)                                           -20% complete
+- [heunpp2_Results](./heunpp2_Results/)                                     -20% complete
+- [dpm_2_Results](./dpm_2_Results)                                          -20% complete
+- [dpm_2_ancestral_Results](./dpm_2_ancestral_Results)                      -20% complete
+- [lms_Results](./lms_Results)                                              -20% complete
+- [dpm_fast_Results](./dpm_fast_Results)                                    -20% complete
+- [dpm_adaptive_Results](./dpm_adaptive_Results)                            -20% complete
+- [dpmpp_2s_ancestral_Results](./dpmpp_2s_ancestral_Results)                -20% complete
+- [dpmpp_2s_ancestral_cfg_pp_Results](./dpmpp_2s_ancestral_cfg_pp_Results)  -20% complete
+- [dpmpp_sde_Results](./dpmpp_sde_Results)                                  -20% complete
+- [dpmpp_sde_gpu_Results](./dpmpp_sde_gpu_Results)                          -20% complete
+- [dpmpp_2m_Results](./dpmpp_2m_Results)                                    -20% complete
+- [dpmpp_2m_cfg_pp_Results](./dpmpp_2m_cfg_pp_Results)                      -20% complete
+- [dpmpp_2m_sde_Results](./dpmpp_2m_sde_Results)                            -20% complete
+- [dpmpp_2m_sde_gpu_Results](./dpmpp_2m_sde_gpu_Results)                    -20% complete
+- [dpmpp_3m_sde_Results](./dpmpp_3m_sde_Results/)                           -20% complete
+- [dpmpp_3m_sde_gpu_Results](./dpmpp_3m_sde_gpu_Results/)                   -20% complete
+- [ddpm_Results](./ddpm_Results/)                                          -20% complete
+- [lcm_Results](./lcm_Results/)                                             -20% cpmplete
 <!-- next sampler -->
 
 - [XY Plots from Deleted Reddit post](./Deleted_reddit_post/) - had done a simple prompt at 10/20 steps, but ran through all Samplers & Schedulers, had posted on reddit but they flagged it.
