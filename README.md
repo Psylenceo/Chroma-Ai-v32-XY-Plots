@@ -89,53 +89,54 @@ Big shoutout to [rgthree](https://github.com/rgthree/rgthree-comfy) for their aw
 ## Results overview
 Nearl all samplers work with CFG > 2.0
 
-                schedulers
-          |                                | Normal | Karras  | Exponential | sgm_uniform | simple | ddim_uniform | beta | linear_quadratic | kl_optimal |
-          |--------------------------------|--------|---------|-------------|-------------|--------|--------------|------|------------------|------------|
-          | Euler                          |   ✅  |    ❌   |      ❌    |       ✅    |   ✅  |       ✅     |  ✅ |        ✅        |            |
-samplers  | Euler_cfg_pp                   |   ❌  |    ❌   |      ❌    |       ❌    |   ❌  |       ❌     |  ❌ |        ❌        |            |
-          | euler_ancestral                |   ❌  |    ❌   |      ❌    |       ❌    |   ❌  |       ❌     |  ❌ |        ❌        |            |
-          | euler_ancestral_cfg_pp         |   ❌  |    ❌   |      ❌    |       ❌    |   ❌  |       ❌     |  ❌ |        ❌        |            |
-          | heun                           |
-          | heunpp2                        |
-          | dpm_2                          |
-          | dpm_2_ancestral                |
-          | lms                            |
-          | dpm_fast                       |
-          | dpm_adaptive                   |
-          | dpmpp_2s_ancestral             |
-          | dpmpp_2s_ancestral_cfg_pp      |
-          | dpmpp_sde                      |
-          | dpmpp_sde_gpu                  |
-          | dpmpp_2m                       |
-          | dpmpp_2m_cfg_pp                |
-          | dpmpp_2m_sde                   |
-          | dpmpp_2m_sde_gpu               |
-          | dpmpp_3m_sde                   |
-          | dpmpp_3m_sde_gpu               |
-          | ddpm                           |
-          | lcm                            |
-          | ipndm                          |
-          | ipndm_v                        |
-          | deis                           |
-          | res_multistep                  |
-          | res_multistep_cfg_pp           |
-          | res_multistep_ancestral        |
-          | res_multistep_ancestral_cfg_pp |
-          | gradient_estimation            |
-          | gradient_estimation_cfg_pp     |
-          | er_sde                         |
-          | seeds_2                        |
-          | seeds_3                        |
-          | ddim                           |
-          | uni_pc                         |
-          | uni_pc_bh2                     |
+### Schedulers vs Samplers Grid
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+| Samplers | Normal | Karras | Exponential | sgm_uniform | simple | ddim_uniform | beta | linear_quadratic | kl_optimal |
+|----------|--------|--------|-------------|-------------|--------|--------------|------|------------------|------------|
+| **Euler** | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | |
+| **Euler_cfg_pp** | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | |
+| **euler_ancestral** | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | |
+| **euler_ancestral_cfg_pp** | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | |
+| **heun** | | | | | | | | | |
+| **heunpp2** | | | | | | | | | |
+| **dpm_2** | | | | | | | | | |
+| **dpm_2_ancestral** | | | | | | | | | |
+| **lms** | | | | | | | | | |
+| **dpm_fast** | | | | | | | | | |
+| **dpm_adaptive** | | | | | | | | | |
+| **dpmpp_2s_ancestral** | | | | | | | | | |
+| **dpmpp_2s_ancestral_cfg_pp** | | | | | | | | | |
+| **dpmpp_sde** | | | | | | | | | |
+| **dpmpp_sde_gpu** | | | | | | | | | |
+| **dpmpp_2m** | | | | | | | | | |
+| **dpmpp_2m_cfg_pp** | | | | | | | | | |
+| **dpmpp_2m_sde** | | | | | | | | | |
+| **dpmpp_2m_sde_gpu** | | | | | | | | | |
+| **dpmpp_3m_sde** | | | | | | | | | |
+| **dpmpp_3m_sde_gpu** | | | | | | | | | |
+| **ddpm** | | | | | | | | | |
+| **lcm** | | | | | | | | | |
+| **ipndm** | | | | | | | | | |
+| **ipndm_v** | | | | | | | | | |
+| **deis** | | | | | | | | | |
+| **res_multistep** | | | | | | | | | |
+| **res_multistep_cfg_pp** | | | | | | | | | |
+| **res_multistep_ancestral** | | | | | | | | | |
+| **res_multistep_ancestral_cfg_pp** | | | | | | | | | |
+| **gradient_estimation** | | | | | | | | | |
+| **gradient_estimation_cfg_pp** | | | | | | | | | |
+| **er_sde** | | | | | | | | | |
+| **seeds_2** | | | | | | | | | |
+| **seeds_3** | | | | | | | | | |
+| **ddim** | | | | | | | | | |
+| **uni_pc** | | | | | | | | | |
+| **uni_pc_bh2** | | | | | | | | | |
+
+<!--<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
   <div style="background: lightgray; padding: 10px;">Item 1</div>
   <div style="background: lightgray; padding: 10px;">Item 2</div>
   <div style="background: lightgray; padding: 10px;">Item 3</div>
-</div>
+</div> -->
 ---
 
 ## License
