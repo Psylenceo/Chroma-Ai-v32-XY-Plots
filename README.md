@@ -131,7 +131,11 @@ samplers  | Euler_cfg_pp                   |   ❌  |    ❌   |      ❌    |  
           | uni_pc                         |
           | uni_pc_bh2                     |
 
-
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+  <div style="background: lightgray; padding: 10px;">Item 1</div>
+  <div style="background: lightgray; padding: 10px;">Item 2</div>
+  <div style="background: lightgray; padding: 10px;">Item 3</div>
+</div>
 ---
 
 ## License
