@@ -94,8 +94,8 @@ Nearl all samplers work with CFG > 2.0
           |--------------------------------|--------|---------|-------------|-------------|--------|--------------|------|------------------|------------|
           | Euler                          |   ✅  |    ❌   |      ❌    |       ✅    |   ✅  |       ✅     |  ✅ |        ✅        |            |
 samplers  | Euler_cfg_pp                   |   ❌  |    ❌   |      ❌    |       ❌    |   ❌  |       ❌     |  ❌ |        ❌        |            |
-          | euler_ancestral                |
-          | euler_ancestral_cfg_pp         |
+          | euler_ancestral                |   ❌  |    ❌   |      ❌    |       ❌    |   ❌  |       ❌     |  ❌ |        ❌        |            |
+          | euler_ancestral_cfg_pp         |   ❌  |    ❌   |      ❌    |       ❌    |   ❌  |       ❌     |  ❌ |        ❌        |            |
           | heun                           |
           | heunpp2                        |
           | dpm_2                          |
